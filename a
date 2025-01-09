@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+body 
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.auto 
+{
+    width: 300px;
+    background-color: #000;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.header 
+{
+    background-color: #e50914;
+    padding: 10px 0;
+    font-size: 18px;
+
+}
+
+.auro-image
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.Məlumat
+{
+
+
+}
+    </style>
+</head>
+<body>
+
+    <div class="auto">
+
+        <div class="header">TURBO.AZ</div>
+
+        <img src="https://turbo.azstatic.com/uploads/full/2024%2F12%2F27%2F13%2F34%2F36%2Fe51f5c84-d1d4-40a0-83b9-c6ba9e645fcb%2F3752_4NpV7XsFM7A9UVCf68RBhw.jpg" alt="turbo.az
+        Changan Qiyuan Q05" class="auro-image">
+<div class="Məlumat">
+    <h2>21 200 USD</h2>
+    <p>Changan Qiyuan Q05</p>
+    <p>2024 il </p>
+    <p>Bakı</p>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
